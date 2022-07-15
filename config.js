@@ -65,8 +65,8 @@ global.owner = [
   ['628777777755', 'G', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = ['6283147041649'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6283147041649'] // Want some help?
+global.prems = ['6283147041649', '62895621048847'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
