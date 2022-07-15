@@ -44,9 +44,9 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
         }
         return await conn.sendMessage(m.chat, message)*/
 conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply: { showAdAttribution: true,
-      mediaUrl: "https://github.com/ImYanXiao",
+      mediaUrl: "-",
       mediaType: 2,
-      description: "https://github.com/ImYanXiao", 
+      description: "-", 
       title: 'ᴋᴀɴɴᴀ-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ',
       body: wm,
       thumbnail: thumb,
