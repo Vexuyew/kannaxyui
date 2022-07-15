@@ -3,16 +3,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • The.Sad.Boy01
-// • Rasel comel
-// • ImYanXiao
-// • Xtreshe (Beban)
-// • Dll
+// Ga ada ga ngasih credit soalnya saya ga mau >:(
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -60,8 +51,8 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.com/'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281328185617'
-global.nomorown = '6285608625102'
+global.nomorbot = '6283125737791'
+global.nomorown = '6281328185617'
 global.namebot = 'Yui - Chan'
 global.nameown = 'B4ks0'
 
