@@ -62,9 +62,9 @@ https://github.com/FahriAdison
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Xiao_yan_21",
+    mediaUrl: "https://Instagram.com/",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Xiao_yan_21", 
+    description: "https://Instagram.com/", 
     title: 'Kanna-MultiDevice',
     body: wm,
     thumbnail: thumb,
