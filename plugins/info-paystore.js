@@ -1,17 +1,17 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '5'
-let sn = '15'
-let ss = '30'
-let sp = '35'
-let sv = '65'
+let sh = 'gratis'
+let sn = 'gratis'
+let ss = 'gratis'
+let sp = 'gratis'
+let sv = 'gratis'
 //premium
-let ph = '5'
-let pn = '20'
-let pp = '40'
-let pv = '50'
-let ppm = '70'
+let ph = 'gratis'
+let pn = 'gratis'
+let pp = 'gratis'
+let pv = 'gratis'
+let ppm = 'gratis'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
@@ -34,11 +34,11 @@ let info = `
 • *Dana:* [${pdana}]
 
 –––––– *🐾 Kebijakan* ––––––
-🗣️: Kak, Kok harganya mahal banget?
-💬: Mau tawar menawar? boleh, silahkan chat owner aja
+🗣️: Kak, Kok harganya gratis & cara dapetin premium gimana??
+💬: Iya dong cukup dengan invite bot ini dan pakai sudah mendukung banget, untuk premium pm 081328185617
 
-🗣️: Scam ga nih kak?
-💬: Enggalah, Owner 100% Tepati janji #STAYHALAL
+🗣️: kak mau donasi dong
+💬: Boleh tinggal pm 081328185617
 
 ▌│█║▌║▌║║▌║▌║█│▌
 `
